@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 2-read_lines.py
 """Defines a text file-reading function."""
 
 
